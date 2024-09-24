@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Driven by a passion for both finance and technology, I integrate my Computer Science expertise with a strong sense of discipline and purpose. My journey began at age 8, learning very basic HTML, and quickly expanded into exploring virtual machines and diverse operating systems. Over the years, I’ve developed proficiency in Python, Java, C++, and Data Analysis, working on school projects like a Dikjstra pathfinding applicatios and personal projects like an iOS Tumblr API app.
+
+As the Founder of Exclusive Eagle LLC, I manage an Amazon FBA store with over 500% profit margins and a 5-star customer rating. Alongside, I have been actively trading in the Stock and Forex markets for nearly three years, applying technical analysis and market insights to achieve financial growth.
