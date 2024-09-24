@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Driven by a passion for both finance and technology, I integrate my Computer Science expertise with a strong sense of discipline and purpose. My journey began at age 8, learning very basic HTML, and quickly expanded into exploring virtual machines and diverse operating systems. Over the years, I’ve developed proficiency in Python, Java, C++, and Data Analysis, working on school projects like a Dikjstra pathfinding applicatios and personal projects like an iOS Tumblr API app.
+🌱 As a Software Engineering Fellow at Headstarter AI, I’m sharpening my technical skills while pursuing a Computer Science degree at the University of Illinois Chicago. My role as Finance Chair for the National Society of Black Engineers demonstrates my commitment to diversity and inclusion, where I lead fundraising initiatives and cultivate corporate partnerships, amplifying community impact and ensuring opportunities are accessible to all.
 
-As the Founder of Exclusive Eagle LLC, I manage an Amazon FBA store with over 500% profit margins and a 5-star customer rating. Alongside, I have been actively trading in the Stock and Forex markets for nearly three years, applying technical analysis and market insights to achieve financial growth.
+🔭 Collaborations with ColorStack and specialized learning through CodePath’s programs reinforce my technical foundation, aligning with my dedication to continuous growth and empowerment within the tech industry. My journey in tech, combined with a strategic mindset and financial stewardship, equips me to contribute meaningfully to innovation and community outreach.
+
+📊 As the Founder of Exclusive Eagle LLC, I manage an Amazon FBA store with over 500% profit margins and a 5-star customer rating. Additionally, I have been actively trading in the Stock and Forex markets for nearly three years, applying technical analysis and market insights to achieve consistent financial growth.
