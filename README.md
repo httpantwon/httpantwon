@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 As a Software Engineering Fellow at Headstarter AI, I’m sharpening my technical skills while pursuing a Computer Science degree at the University of Illinois Chicago. My role as Finance Chair for the National Society of Black Engineers demonstrates my commitment to diversity and inclusion, where I lead fundraising initiatives and cultivate corporate partnerships, amplifying community impact and ensuring opportunities are accessible to all.
+🌱 🌱 I’m currently pursuing a Computer Science degree at the University of Illinois Chicago (UIC). As the Treasurer for the National Society of Black Engineers (NSBE) at UIC, I’m responsible for managing all chapter finances—overseeing expenditures, maintaining financial records, preparing budgets and reports, and ensuring fiscal accountability across all operations. My work in this role reflects my commitment to leadership, organization, and community impact through both financial stewardship and collaborative growth.
 
-🔭 Collaborations with ColorStack and specialized learning through CodePath’s programs reinforce my technical foundation, aligning with my dedication to continuous growth and empowerment within the tech industry. My journey in tech, combined with a strategic mindset and financial stewardship, equips me to contribute meaningfully to innovation and community outreach.
+🔭 I actively collaborate with ColorStack and have completed multiple CodePath programs, including iOS Development, Technical Interview Prep, and the Internship Connection Program, further strengthening my technical foundation and problem-solving skills. My journey in tech, combined with a strategic mindset and financial stewardship, equips me to contribute meaningfully to innovation and community outreach.
 
-📊 As the Founder of Exclusive Eagle LLC, I manage an Amazon FBA store with over 500% profit margins and a 5-star customer rating. Additionally, I have been actively trading in the Stock and Forex markets for nearly three years, applying technical analysis and market insights to achieve consistent financial growth.
+⚖️ Outside of school, I am a consumer law advocate, leveraging federal statutes such as the FCRA, FDCPA, and TCPA to hold companies accountable, resolve credit reporting violations, and educate others on their consumer rights.
+
+📈 I also trade stock options and forex, combining technical analysis with disciplined strategy to make data-driven investment decisions.
+🎿 In my free time, I love to ski. I’ve reached the level where I can confidently ski black diamond slopes.
