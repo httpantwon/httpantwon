@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 🌱 I’m currently pursuing a Computer Science degree at the University of Illinois Chicago (UIC). As the Treasurer for the National Society of Black Engineers (NSBE) at UIC, I’m responsible for managing all chapter finances—overseeing expenditures, maintaining financial records, preparing budgets and reports, and ensuring fiscal accountability across all operations. My work in this role reflects my commitment to leadership, organization, and community impact through both financial stewardship and collaborative growth.
+🌱 I’m currently pursuing a Computer Science degree at the University of Illinois Chicago (UIC). As the Treasurer for the National Society of Black Engineers (NSBE) at UIC, I’m responsible for managing all chapter finances—overseeing expenditures, maintaining financial records, preparing budgets and reports, and ensuring fiscal accountability across all operations. My work in this role reflects my commitment to leadership, organization, and community impact through both financial stewardship and collaborative growth.
 
 🔭 I actively collaborate with ColorStack and have completed multiple CodePath programs, including iOS Development, Technical Interview Prep, and the Internship Connection Program, further strengthening my technical foundation and problem-solving skills. My journey in tech, combined with a strategic mindset and financial stewardship, equips me to contribute meaningfully to innovation and community outreach.
 
